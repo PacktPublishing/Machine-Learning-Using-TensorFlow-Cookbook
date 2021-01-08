@@ -4,4 +4,4 @@
 *The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
 
 # TensorFlow-2-Machine-Learning-Cookbook-Third-Edition
-TensorFlow 2 Machine Learning Cookbook Third Edition, published by Packt
+TensorFlow 2 Machine Learning Cookbook Third Edition, published by Packt.
