@@ -1,0 +1,9 @@
+Data sources for chapter 9:
+
+* stock price prediction https://www.kaggle.com/mczielinski/bitcoin-historical-data
+
+* sentiment classification: https://www.kaggle.com/anindya2906/glove6b
+ 						  https://www.kaggle.com/kazanova/sentiment140
+
+* question answering: https://www.kaggle.com/c/tensorflow2-question-answering/data 						  
+
