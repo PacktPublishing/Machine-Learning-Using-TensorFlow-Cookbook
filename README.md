@@ -1,2 +1,2 @@
-# TensorFlow-2-Machine-Learning-Cookbook-Third-Edition
-TensorFlow 2 Machine Learning Cookbook Third Edition, published by Packt.
+# Machine Learning Using TensorFlow Cookbook
+Machine Learning Using TensorFlow Cookbook, published by Packt.
